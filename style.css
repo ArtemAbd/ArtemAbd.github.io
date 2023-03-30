@@ -29,6 +29,7 @@
   width: 20%;
   height: 20%;
   border-radius: 60% 30% 60% 30%;
+  box-shadow: 5px 5px 5px hwb(150 23% 76%);
 }
 
 .title_QA {

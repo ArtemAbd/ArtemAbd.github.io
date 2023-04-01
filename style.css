@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+  overflow: hidden;
+}
+
 .container {
   font-family: "Helvetica";
   background-image: url('/Background.jpg');
